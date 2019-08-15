@@ -1,0 +1,2 @@
+# odoo-aliexpress
+基于Odoo搭建AliExpress后台进销存系统，实现Odoo与AliExpress的接口对接、数据打通
